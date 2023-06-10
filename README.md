@@ -15,7 +15,9 @@ Anaconda - Python 3.7
 ## PROGRAM:
 '''
 Program to count the number of words in a file
+
 Developed by : S.ANUSHARON
+
 Register number: 212222240010
 '''
 
