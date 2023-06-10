@@ -20,8 +20,11 @@ Register number: 212222240010
 '''
 
 fp=input("Enter the file name:")
+
 words=0
+
 with open(fp,'r')as f:
+
     for line in f:
         word=line.split()
         words+=len(word)
